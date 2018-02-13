@@ -1,0 +1,68 @@
+.head_blog{
+background-color:#2e3641;
+color:#FFFFFF;
+font-size:18px;
+}
+
+#content{
+width:615px;
+font-family: Tahoma;
+color:#999999;
+font-size:12px;
+margin: 10px;
+}
+
+.head_link{
+  color: #fff;
+  text-decoration: none;
+}
+
+.post_content{
+  padding: 10px;
+  font-size: 14px;
+  display:grid;
+}
+
+.head_blog, .row_blog, .add_blog{
+padding: 10px;
+border-bottom: 1px solid #cccccc;
+}
+
+.content{
+  font-size: 14px;
+}
+
+#add_new{
+color:#999;
+font-style:italic;
+}
+
+.view_post{
+color:#999;
+text-decoration:none;
+}
+
+.add_post{
+  padding: 10px;
+}
+
+#new_post, #new_comment {
+  width: 100%;
+  height: 175px;
+}
+
+#add_post, #add_comment {
+  width: 150px;
+}
+
+.item{
+  height: 200px;
+  padding: 10px 70px
+}
+
+#list_tasks_length{
+  display: none;
+}
+
+
+
